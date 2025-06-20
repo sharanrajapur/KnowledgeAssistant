@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🤖 SAM Knowledge Assistant")
+st.title("🤖 SAM AI Knowledge Assistant")
 st.caption("Your intelligent partner for accessing information.")
 
 # --- Agent Description ---
